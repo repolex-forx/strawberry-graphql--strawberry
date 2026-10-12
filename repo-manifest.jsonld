@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/strawberry-graphql/strawberry/commit/0eb1c5ecb66d4a72ed0d9f6387fabb7996daa3b7",
       "git:hexsha": "0eb1c5ecb66d4a72ed0d9f6387fabb7996daa3b7",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.334.2"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.334.2",
+      "repolex:parsedAt": "2026-10-12T19:50:47.192957+00:00"
     },
     {
       "@id": "https://repolex.ai/r/strawberry-graphql/strawberry/commit/b75e3b7b475896b1977e19728bb2effbca5e3e3a",
